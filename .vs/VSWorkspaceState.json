@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\components\\Chat",
+    "\\client\\src\\components\\InfoBar",
+    "\\client\\src\\components\\Input",
+    "\\client\\src\\components\\Join",
+    "\\client\\src\\components\\Message",
+    "\\client\\src\\components\\Messages",
+    "\\client\\src\\components\\TextContainer"
+  ],
+  "PreviewInSolutionExplorer": false
+}
